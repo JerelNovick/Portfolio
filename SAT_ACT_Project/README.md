@@ -1,17 +1,29 @@
+<!-- #region -->
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Analysis of SAT & ACT Partcipation Rates
+
+## Project Author
+[Jerel Novick](https://github.com/JerelNovick)
+
+## Contents of Repo
+<!--ts-->
+* [Code](https://github.com/JerelNovick/Portfolio/tree/master/SAT_ACT_Project/code)
+* [Data](https://github.com/JerelNovick/Portfolio/tree/master/SAT_ACT_Project/data)
+
+
 **Summary**
 
 This is a statistical analysis of scores and participation rates for the SAT and ACT tests.  The data from 2017 and 2018 was used for the analysis.
 
 **Problem**
 
-The SAT has lower participation rates than ACT.
+Where is the best money best spent to improve SAT partcipation rates?
 
 **Data**
 
 The data was provided by the College Board, who conduct the SAT, and the ACT.  The data covered all 50 states plus the District of Columbia.  The SAT data included participation rates along with scores for the reading section, math section and total scores for both 2017 and 2018.  The ACT data contained participation rates and composite scores for both years.  Scores for the English, math and science sections was only provided for 2017.
 
 Upon importing the data, it was analyzed to check for irregularities, formatting issues and extraneous or duplicate information.  Where appropriate the data was corrected.  Data dictionary below gives an additional breakdown of the data makeup.
-
+<!-- #endregion -->
 
 **Data Dictionary**
 

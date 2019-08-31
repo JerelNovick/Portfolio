@@ -13,7 +13,7 @@ A function was created in Python to scrape the subreddits.  Each "scrape" would 
 ## Data Cleaning
 
 After each scrape, a function was run that would convert that would create a data frame and save it as a csv file.  The columns in the data frame were:
-    
+
 
 | Column Name  | Description                                               |
 |--------------|-----------------------------------------------------------|
