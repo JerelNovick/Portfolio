@@ -84,10 +84,14 @@ While the initial models showed showed high levels of accuracy, they were much l
 ## 5. Next Steps
 
 The next steps are:
-    * Creating and employing better metrics
-    * Looking for more interactions
-    * Calculating the model's winning probabilities
-    * See were the model is correctly predicting "dogs" to win over favorites
-    * Creating Pythagorean Expectation and Log 5 Models
-    * Looking for value against moneylines
-    * Expanding the model to look at NCAA games
+   * Creating and employing better metrics
+   * Looking for more interactions
+   * Calculating the model's winning probabilities
+   * See were the model is correctly predicting "dogs" to win over favorites
+   * Creating Pythagorean Expectation and Log 5 Models
+   * Looking for value against moneylines
+   * Expanding the model to look at NCAA games
+
+```python
+
+```
